@@ -1,6 +1,8 @@
 header{
+    display: flex;
     background-color: #6FB2D2;
     padding: 20px;
+    color: bisque;
 }
 nav{
     background-color: #062C30;
@@ -23,4 +25,10 @@ footer{
     background-color: black;
     color: antiquewhite;
     padding: 20px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
