@@ -90,5 +90,19 @@ footer{
 .menu li:hover .sub3 {
     display: block;
 }
-
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 150%;
+    margin: 30px;
+    color: #333333;
+}
+img{
+    float: left;
+    margin-right: 20px;
+    width: 210px;
+}
+embed{
+    float: left;
+    margin-right: 20px;
+}
 
