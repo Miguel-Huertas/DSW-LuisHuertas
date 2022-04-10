@@ -14,7 +14,7 @@ section{
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 article{
-    background-color: #C0EDA6;
+    background-color: #d6e6cd;
     grid-column:1/4 ;
 }
 aside{
