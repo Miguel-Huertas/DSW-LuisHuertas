@@ -105,4 +105,15 @@ embed{
     float: left;
     margin-right: 20px;
 }
+@media screen and (max-width:768px){
+    header{
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:768px){
+    .menu{
+        flex-direction: column;
+    }
+}
+
 
